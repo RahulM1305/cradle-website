@@ -31,7 +31,7 @@ A responsive and visually appealing website built to provide information and ser
 
 - **HTML5**: Structure and content.
 - **CSS3**: Styling, animations, and layout (Flexbox, Grid).
-- **JavaScript **: Adding interactivity, DOM manipulation, and smooth scrolling.
+- **JavaScript**: Adding interactivity, DOM manipulation, and smooth scrolling.
 
 ---
 
